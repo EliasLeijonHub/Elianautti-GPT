@@ -1,0 +1,12 @@
+git clone https://github.com/username/Elianautti-GPT.git
+cd Elianautti-GPT
+Elianautti-GPT/
+├── README.md
+├── elianautti.py
+├── requirements.txt
+├── examples/
+│   ├── example1.png
+│   └── example2.png
+└── docs/
+    ├── usage.md
+    └── architecture.md
